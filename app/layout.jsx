@@ -1,0 +1,2 @@
+export const metadata = { title: "Myanmar Tender Monitor", description: "Official newspaper tender monitoring dashboard" };
+export default function RootLayout({children}) { return <html lang="my"><body style={{margin:0,fontFamily:"system-ui, sans-serif",background:"#f5f7fb",color:"#172334"}}>{children}</body></html>; }
