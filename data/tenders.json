@@ -1,5 +1,144 @@
 {
-  "updated_at": null,
-  "issues": [],
-  "tenders": []
+  "updated_at": "2026-11-17T09:45:01.491281+00:00",
+  "issues": [
+    {
+      "source": "mal",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5857",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "mal",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5854",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "mal",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5853",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5471",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5469",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5466",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5618",
+      "pages": 15,
+      "status": "date_unverified"
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5615",
+      "pages": 15,
+      "status": "date_unverified"
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-17",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5612",
+      "pages": 15,
+      "status": "date_unverified"
+    }
+  ],
+  "tenders": [],
+  "candidates": [
+    {
+      "source": "km",
+      "issue_date": "2026-11-17",
+      "page": 24,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5471",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၁၇၊  ၂၀၂၆\nေကာ်ြငာစာ\nေကာ်ြငာစာ\nမ ေလးမိ၊ မဟာေအာင်ေြမမိနယ်၊  မဟာမိင်-၂ရပ်ကွက်၊ \nအကွက်အမှတ်-(န-၈)၊ ဦးပိုင်အမှတ်-(၄၉+၆၀)အတွင်းမှ (၄၉)ခဲစင်း၊ \n၆၄လမ်း၊ ၄၂x၄၃လမ်းကားရှိ ဂရန်ေြမကွက် အမည်ေပါက်သူ ေဒ ခင် \nေအးစိန်ထံမှ မှတ်ပုံတင်အေရာင်းအဝယ်စာချပ်အမှတ်(၂၀၈၆/၂၀၂၆)\nြဖင့် ဝယ်ယူခဲ့သူ ေဒ ခိုင်ဆုေဝ [၉/ခအဇ(ိုင်)၀၂၈၄၀၈]က  အမ တွဲ \nအမှတ် (၃၅၀၂/၂၀၂၆-၂၀၂၇)ြဖင့် ဦးပိုင်ခွဲ၊ အမည်ေြပာင်း ေလ ာက်ထား"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-17",
+      "page": 27,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5471",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၁၇၊  ၂၀၂၆  \nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nကျန်းမာေရးဝန်ကီးဌာန \nကျန်းမာေရးဝန်ကီးဌာန \nကုသေရးဦးစီးဌာန \nကုသေရးဦးစီးဌာန \nရန်ကုန်ြပည်သူǥေဆးုံကီး \nရန်ကုန်ြပည်သူǥေဆးုံကီး \nေဆးုံအုပ်ကီးုံး\nေဆးုံအုပ်ကီးုံး\nအိတ်ဖွင့်တင်ဒါေခ ယူြခင်း\nအိတ်ဖွင့်တင်ဒါေခ ယူြခင်း\n၁။  (၂၀၂၆-၂၀၂၇) ဘ  ာေရးှစ်တွင် ရန်ကုန်ြပည်သူǥေဆးုံကီးှင့် အမျိးသားကင်ဆာကု"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-17",
+      "page": 30,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5471",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၁၇၊   ၂၀၂၆\nေသွးသည်  အသက်\nေသွးသည်  အသက်\nအများသိေစရန်ေကာ်ြငာ\nအများသိေစရန်ေကာ်ြငာ\nရန်ကုန်တိုင်းေဒသကီး၊ ကမာရɪတ်မိနယ်၊ ြပည်ရိပ်သာလမ်း၊ ေြမတိုင်း \nရပ်ကွက်အမှတ်(၈၂)၊  ေြမကွက်အမှတ်(၁၀-H)၊    အေဆာက်အအုံအမှတ် \n( ၄၉၉/A)၊ Basement ပါ (၈၁\n၂)ထပ်တိုက်၏ အခန်းအမှတ်(C-5)၊ ဧရိယာ \n(၁၉၄၆)စတုရန်းေပအကျယ်အဝန်းရှိ (Lift)ပါ ကွန်ဒိုတိုက်ခန်းှင့် စွဲကပ် \nလျက်ရှိေသာ အကျိးခံစားခွင့်များကို ေဒ ယ်ယ်[၁၂/မရက("
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-17",
+      "page": 30,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5469",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၁၆၊  ၂၀၂၆\nအိတ်ဖွင့်တင်ဒါေခ ယူြခင်း\nအိတ်ဖွင့်တင်ဒါေခ ယူြခင်း\nကျန်းမာေရးဝန်ကီးဌာန၊ ကုသေရးဦးစီးဌာနသည် (၂၀၂၆-၂၀၂၇)ခု၊ \nဘ  ာေရးှစ်တွင် တစ်ိုင်ငံလုံးရှိ ြပည်သူǥေဆးုံများအတွက် လိုအပ်ေသာ \nေဆးုံသုံးစက်ပစ ည်းကိရိယာများအား ဝယ်ယူရန် တင်ဒါအမှတ် – 11DMS/ \n2026-2027(L) ြဖင့် တင်ဒါေခ ယူအပ်ပါသည်။\nတင်ဒါစည်းမျ်း၊ စည်းကမ်းများကို တင်ဒါလက်ခံေရးှင့်စိစစ်ေရး\nေကာ်မတီ၊ ုံးအမှတ်(၄)၊ ေနြပည်ေတာ်သို ဆက"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-17",
+      "page": 29,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5466",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၁၅၊  ၂၀၂၆\nကနǥ်ကွက်ိုင်ပါသည်\nကနǥ်ကွက်ိုင်ပါသည်\nရန်ကုန်တိုင်းေဒသကီး၊ လသာမိနယ်၊ အမှတ်(၃)ရပ်ကွက်၊ (၁၉)\nလမ်း၊ အမှတ်(၆၁)၊ ေြမညီထပ်၊ (အလျား၂၅ေပxအနံ၄ဝေပ)အကျယ်အဝန်းရှိ \nတိုက်ခန်း(၁)ခန်းအပါအဝင် အကျိးခံစားခွင့်အရပ်ရပ်တိုအား မိမိတို \nကိုယ်တိုင် တရားဝင်ပိုင်ဆိုင်ပီး စီမံခနǥ်ခွဲေရာင်းချပိုင်ခွင့်ရှိပါသည်ဟု \nဝန်ခံကတိြပသူများြဖစ်ကေသာ ဦးမျိးြမင့် [၁၂/လသန(ိုင်)ဝဝ၃၉၆၃] ှင့် \nေဒ ခင်သန်းေအး ["
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-17",
+      "page": 9,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5618",
+      "status": "needs_review",
+      "excerpt": "10\n17  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nBUSINESS\nNATIONAL\nA trial cultivation using \nnanotechnology and ben­\neficial microorganisms \nis underway at Pathein \nUniversity in Ayeyawady \nRegion to restore the orig­\ninal aroma and quality of \nPathein Pawsan rice.\nAyeyawady Region \nChief Minister U Aye \nKyaw visited the trial plot\non the morning of 14 No­\nvember and inspecte"
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-17",
+      "page": 11,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5618",
+      "status": "needs_review",
+      "excerpt": "12\n17   NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nECONOMY\nWORLD/AD\nTHE Japanese economy \nwas at a standstill in the \nthird quarter as the impact \nof the Iran war persists, \nofficial data showed Mon­\nday, with gross domestic \nproduct at 0.0 per cent.\nThe preliminary read­\ning released by the cabi­\nnet office was weaker than \nmarket expectations of 0.1 \nper cent growth.\nOn an an"
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-17",
+      "page": 9,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5615",
+      "status": "needs_review",
+      "excerpt": "10\n16  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nDELICACY/NEWS QUIZ \nPalm Fruit Cake\nA Traditional Myanmar Seasonal Delight\nWHEN the late monsoon season arrives, from Wagoung \nand Tawthalin to Thadingyut, and ripe palmyra fruits \ncome into season, one traditional treat that can be found \nglowing golden-yellow and filling the air with its sweet \naroma along Myanmar’s rural road"
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-17",
+      "page": 7,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5612",
+      "status": "needs_review",
+      "excerpt": "7\nwww.gnlm.com.mm\n15  NOVEMBER   2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nNATIONAL\nREGULATORS slashed \nfuel prices to K4,270 per \nlitre for Octane 92, K4,315 \nfor Octane 95, K4,380 for \ndiesel and K5,315 for \npremium diesel during \nthe week ending 19 No­\nvember, showing a small \ndecrease compared to \nthe rates of last week.  \nThe prices were set \nat K4,530 for Octane 92, \nK4,550 for Octane 95, \nK4,555"
+    }
+  ],
+  "errors": []
 }
