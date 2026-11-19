@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-11-18T09:12:19.989857+00:00",
+  "updated_at": "2026-11-19T09:31:33.383946+00:00",
   "issues": [
     {
       "source": "mal",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5863",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "mal",
+      "issue_date": "2026-11-19",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5860",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "mal",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5857",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "mal",
-      "issue_date": "2026-11-18",
-      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5854",
+      "source": "km",
+      "issue_date": "2026-11-19",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5475",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5473",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5471",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-18",
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5469",
-      "pages": 32,
+      "source": "gnlm",
+      "issue_date": "2026-11-19",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5624",
+      "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5621",
       "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5618",
-      "pages": 15,
-      "status": "date_unverified"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-18",
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5615",
       "pages": 15,
       "status": "date_unverified"
     }
@@ -69,7 +69,47 @@
   "candidates": [
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
+      "page": 21,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5475",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၁၉၊   ၂၀၂၆\nေကာ်ြငာစာ\nေကာ်ြငာစာ\nမ ေလးမိ၊ ြပည်ကီးတံခွန်မိနယ်၊ ထိန်ကုန်းရပ်ကွက်၊ အကွက် \nအမှတ်(၅၈၉-က)၊ ဦးပိုင်အမှတ်(ဇ-၃၈)၊ ရန်-မန်းလမ်းအေနာက်ဘက်၊ \nေမဇင်သိန်းလမ်းေတာင်ဘက်ရှိ ဂရန်ေြမကွက်အမည်ေပါက်သူ \nဦးတင်ေအာင်[၉/မနမ(ိုင်)၀၂၇၅၀၄]၊ ေဒ ခင်စန်းြမင့်[၁၂/ကမရ(ိုင်) \n၀၂၉၈၆၅]တိုက ဂရန်စာချပ်တင်ြပ၍  မှတ်ပုံတင်အေရာင်းအဝယ် \nစာချပ်ချပ်ဆိုရန်အတွက် ေြမပုံ၊ ေြမရာဇဝင် ေရးကူးခွင့်ြပပါရန် \nေလ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-19",
+      "page": 22,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5475",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ    ၁၉၊   ၂၀၂၆\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nပညာေရးဝန်ကီးဌာန\nပညာေရးဝန်ကီးဌာန\nအေြခခံပညာဦးစီးဌာန \nအေြခခံပညာဦးစီးဌာန \nေနြပည်ေတာ်\nေနြပည်ေတာ်\nအိတ်ဖွင့်တင်ဒါ(Open Tender)ေခ ယူြခင်း\nအိတ်ဖွင့်တင်ဒါ(Open Tender)ေခ ယူြခင်း\n၁။ \n၂၀၂၆ ခုှစ်၊ဧပီလ(၁)ရက်ေနǥမှ ၂၀၂၇ ခုှစ် မတ်လ(၃၁)ရက်ေနǥအထိ \nဘ  ာေရးှစ်အတွင်း ပညာေရးဝန်ကီးဌာန၊ အေြခခံပညာဦးစီးဌာန(ုံးချ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-19",
+      "page": 23,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5475",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၁၉၊  ၂၀၂၆\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nဒဂုံမိသစ်(အေရှပိုင်း) မိနယ်၊ ၅ ရပ်ကွက်၊ ေတာ်ဝင်လမ်း၊ အမှတ် - ၁၀၀၄ \nတည်ရှိရာ ေြမတိုင်းရပ်ကွက်အမှတ်(၅)၊ ေြမကွက်အမှတ်(၁၀၀၄)၊ ဒဂုံမိသစ် \n(အေရှပိုင်း)မိနယ်၊ ဦးခင်ေမာင်လွင် (CG-၀၀၀၂၈၉) အမည်ေပါက် ှစ်(၆၀)\nေြမငှားဂရန်ေြမအား အမည်ေပါက်(ခင်ပွန်း) ဦးခင်ေမာင်လွင်ကွယ်လွန်၍ (ဇနီး)\nေဒ မာမာေအး[၁၂/ဥကတ(ိုင်)၀၀၂၅၆၉]က တရားဝင်"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-19",
+      "page": 24,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5475",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ    ၁၉၊   ၂၀၂၆\n“ကနǥ်ကွက်ိုင်ပါသည်”\n“ကနǥ်ကွက်ိုင်ပါသည်”\nရန်ကုန်တိုင်းေဒသကီး၊ သဃ  န်းက န်းမိနယ်၊ သုမဂ  လာ \nလမ်းမကီး၊ အမှတ် (၃၀၆)၊ တိုက်(၂)တွင် ေနထိုင်သူ ေဒ ယုယုဝင်း \n[၁၂/သဃက(ိုင်)ဝဝ၁၉၅၈]၏ လ ဲအပ် န်ကားချက်အရ ကနǥ်ကွက် \nိုင်ပါေကာင်း အများသိေစရန် ေကညာအပ်ပါသည်။\nရန်ကုန်တိုင်းေဒသကီး၊ သဃ  န်းက န်းမိနယ်၊ ဗိုလ်ကံွနǥ် \nရပ်ကွက်၊ ဇဗ ဒိပ်လမ်း၊ အမှတ် (၄/က)  ေြမကွက်ေပ ၌ ေဆာက်လုပ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-19",
+      "page": 28,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5475",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၁၉၊  ၂၀၂၆\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nအလုပ်သမားဝန်ကီးဌာန \nအလုပ်သမားဝန်ကီးဌာန \nလူမ ဖူလုံေရးအဖွဲ\nလူမ ဖူလုံေရးအဖွဲ\nဝန်ကီးဌာနတင်ဒါေကာ်မတီ \nဝန်ကီးဌာနတင်ဒါေကာ်မတီ \n(အိတ်ဖွင့်တင်ဒါေခ ယူြခင်း)\n(အိတ်ဖွင့်တင်ဒါေခ ယူြခင်း)\n၁။ \nအလုပ်သမားဝန်ကီးဌာန၊ လူမ ဖူလုံေရးအဖွဲသည် ၂၀၂၆-၂၀၂၇ ဘ  ာေရးှစ်၊ \nအလုပ်သမားေဆးုံကီးများှင့် မိနယ်လူမ ဖူ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-19",
       "page": 21,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5473",
       "status": "needs_review",
@@ -77,7 +117,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 23,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5473",
       "status": "needs_review",
@@ -85,7 +125,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 28,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5473",
       "status": "needs_review",
@@ -93,7 +133,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 29,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5473",
       "status": "needs_review",
@@ -101,7 +141,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 24,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5471",
       "status": "needs_review",
@@ -109,7 +149,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 27,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5471",
       "status": "needs_review",
@@ -117,23 +157,23 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 30,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5471",
       "status": "needs_review",
       "excerpt": "ိုဝင်ဘာ   ၁၇၊   ၂၀၂၆\nေသွးသည်  အသက်\nေသွးသည်  အသက်\nအများသိေစရန်ေကာ်ြငာ\nအများသိေစရန်ေကာ်ြငာ\nရန်ကုန်တိုင်းေဒသကီး၊ ကမာရɪတ်မိနယ်၊ ြပည်ရိပ်သာလမ်း၊ ေြမတိုင်း \nရပ်ကွက်အမှတ်(၈၂)၊  ေြမကွက်အမှတ်(၁၀-H)၊    အေဆာက်အအုံအမှတ် \n( ၄၉၉/A)၊ Basement ပါ (၈၁\n၂)ထပ်တိုက်၏ အခန်းအမှတ်(C-5)၊ ဧရိယာ \n(၁၉၄၆)စတုရန်းေပအကျယ်အဝန်းရှိ (Lift)ပါ ကွန်ဒိုတိုက်ခန်းှင့် စွဲကပ် \nလျက်ရှိေသာ အကျိးခံစားခွင့်များကို ေဒ ယ်ယ်[၁၂/မရက("
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-18",
-      "page": 30,
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5469",
+      "source": "gnlm",
+      "issue_date": "2026-11-19",
+      "page": 11,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5624",
       "status": "needs_review",
-      "excerpt": "ိုဝင်ဘာ  ၁၆၊  ၂၀၂၆\nအိတ်ဖွင့်တင်ဒါေခ ယူြခင်း\nအိတ်ဖွင့်တင်ဒါေခ ယူြခင်း\nကျန်းမာေရးဝန်ကီးဌာန၊ ကုသေရးဦးစီးဌာနသည် (၂၀၂၆-၂၀၂၇)ခု၊ \nဘ  ာေရးှစ်တွင် တစ်ိုင်ငံလုံးရှိ ြပည်သူǥေဆးုံများအတွက် လိုအပ်ေသာ \nေဆးုံသုံးစက်ပစ ည်းကိရိယာများအား ဝယ်ယူရန် တင်ဒါအမှတ် – 11DMS/ \n2026-2027(L) ြဖင့် တင်ဒါေခ ယူအပ်ပါသည်။\nတင်ဒါစည်းမျ်း၊ စည်းကမ်းများကို တင်ဒါလက်ခံေရးှင့်စိစစ်ေရး\nေကာ်မတီ၊ ုံးအမှတ်(၄)၊ ေနြပည်ေတာ်သို ဆက"
+      "excerpt": "12\n19  NOVEMBER   2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nNATIONAL \nREVISIONS to the sec­\nond-stage draft export \nagreement with China’s \nGeneral Administration \nof Customs (GACC) to se­\ncure export permission for \nMyanmar avocados to Chi­\nna have been completed, \naccording to the Myanmar \nAvocado Producers and \nExporters Association \n(MAVO).\nCurrently, only the \nsigning of a govern­"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 10,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5621",
       "status": "needs_review",
@@ -141,7 +181,7 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 9,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5618",
       "status": "needs_review",
@@ -149,19 +189,11 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-18",
+      "issue_date": "2026-11-19",
       "page": 11,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5618",
       "status": "needs_review",
       "excerpt": "12\n17   NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nECONOMY\nWORLD/AD\nTHE Japanese economy \nwas at a standstill in the \nthird quarter as the impact \nof the Iran war persists, \nofficial data showed Mon­\nday, with gross domestic \nproduct at 0.0 per cent.\nThe preliminary read­\ning released by the cabi­\nnet office was weaker than \nmarket expectations of 0.1 \nper cent growth.\nOn an an"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-18",
-      "page": 9,
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5615",
-      "status": "needs_review",
-      "excerpt": "10\n16  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nDELICACY/NEWS QUIZ \nPalm Fruit Cake\nA Traditional Myanmar Seasonal Delight\nWHEN the late monsoon season arrives, from Wagoung \nand Tawthalin to Thadingyut, and ripe palmyra fruits \ncome into season, one traditional treat that can be found \nglowing golden-yellow and filling the air with its sweet \naroma along Myanmar’s rural road"
     }
   ],
   "errors": []
