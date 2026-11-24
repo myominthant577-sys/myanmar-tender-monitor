@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-11-23T09:50:20.044637+00:00",
+  "updated_at": "2026-11-24T11:38:54.282879+00:00",
   "issues": [
     {
       "source": "mal",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5877",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "mal",
+      "issue_date": "2026-11-24",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5874",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "mal",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5869",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "mal",
-      "issue_date": "2026-11-23",
-      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5868",
+      "source": "km",
+      "issue_date": "2026-11-24",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5487",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5484",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5482",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-23",
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5479",
-      "pages": 32,
+      "source": "gnlm",
+      "issue_date": "2026-11-24",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5638",
+      "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5633",
-      "pages": 15,
-      "status": "date_unverified"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-23",
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5630",
       "pages": 15,
       "status": "date_unverified"
     }
@@ -69,7 +69,15 @@
   "candidates": [
     {
       "source": "km",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
+      "page": 30,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5487",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၄၊  ၂၀၂၆\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nဒဂုံမိသစ်(ေြမာက်ပိုင်း)၊ ေြမတိုင်းရပ်ကွက်အမှတ်(၃၉/ဘီ)၊ ေြမကွက် \nအမှတ်- ၂၂၄၊ ေြမကွက်တည်ေနရာအမှတ်(၂၂၄)၊ ဗ လလမ်း၊ ၃၉/ဘီရပ်ကွက်၊ \nဒဂုံမိသစ်(ေြမာက်ပိုင်း)မိနယ်၊  ေဒ တင်ေမ (BF.၀၆၃၁၇၂) အမည်ေပါက် \nှစ်(၆၀) ေြမငှား(ဂရန်)ေြမအား အမည်ေပါက် ေဒ တင်ေမ (BF.၀၆၃၁၇၂) (မိခင်)ှင့် \nဦးတင်ေအး (ဖခင်)  ကွယ်လွန်တိုတွင်  သား၊ သမီးမ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-24",
       "page": 30,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5484",
       "status": "needs_review",
@@ -77,7 +85,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "page": 27,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5482",
       "status": "needs_review",
@@ -85,31 +93,15 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "page": 30,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5482",
       "status": "needs_review",
       "excerpt": "ိုဝင်ဘာ  ၂၂၊  ၂၀၂၆\nလုပ်ငန်းသုံးပစ ည်း (ကတ ရာ၊ ပရီမီယံဒီဇယ်ဆီ) \nလုပ်ငန်းသုံးပစ ည်း (ကတ ရာ၊ ပရီမီယံဒီဇယ်ဆီ) \nအိတ်ဖွင့်တင်ဒါ (Open Tender) ေခ ယူြခင်း\nအိတ်ဖွင့်တင်ဒါ (Open Tender) ေခ ယူြခင်း\n၁။ လမ်းဦးစီးဌာန၊ ရှမ်းြပည်နယ်(ေတာင်ပိုင်း)အတွင်းရှိ ခိုင်/လမ်း အထူး \nအဖွဲများမှ ၂၀၂၆- ၂၀၂၇ ဘ  ာေရးှစ်အတွင်း ြပည်ေထာင်စုေငွလုံးေငွရင်း \nြဖည့်စွက်ရန်ပုံေငွြဖင့်ေဆာင်ရɪက်မည့် လမ်း/တံတားလုပ်ငန်းများအတွက် \nလ"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-23",
-      "page": 27,
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5479",
-      "status": "needs_review",
-      "excerpt": "ိုဝင်ဘာ   ၂၁၊  ၂၀၂၆\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nဒဂုံမိသစ်(ေြမာက်ပိုင်း)မိနယ်၊ \nေြမတိုင်းရပ်ကွက်အမှတ်-၄၉၊ ေြမကွက် \nအမှတ်(၅၂၃)၊ ေြမကွက်တည်ေနရာ \nအမှတ် (၅၂၃)၊ ပုန်းညက်မိင်လမ်း၊ \n(၄၉)ရပ်ကွက်၊    ဒဂုံမိသစ် \n(ေြမာက်ပိုင်း)မိနယ်၊ ဦးစိုးွနǥ်[၁၂/\nဒလန(ိုင်)၀၃၄၂၄၃]၊ ေဒ ခင်စန်းယု \n[၁၂/ဗဟန(ိုင်)၀၅၇၅၁၄]အမည်ေပါက် \nှစ်(၆၀)ဂရန်ေြမအား အမည်ေပါက်(၂)\nဦးအနက်မှ ေဒ ခင်စန်"
-    },
-    {
-      "source": "km",
-      "issue_date": "2026-11-23",
-      "page": 28,
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5479",
-      "status": "needs_review",
-      "excerpt": "ိုဝင်ဘာ  ၂၁၊  ၂၀၂၆\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nအလုပ်သမားဝန်ကီးဌာန \nအလုပ်သမားဝန်ကီးဌာန \n(အိတ်ဖွင့်တင်ဒါေလ ာက်လ ာေခ ယူြခင်း)\n(အိတ်ဖွင့်တင်ဒါေလ ာက်လ ာေခ ယူြခင်း)\n၁။  \nလူမ ဖူလုံေရးအဖွဲပိုင် အေဆာက်အဦြဖစ်သည့် ရန်ကုန်တိုင်းေဒသကီး၊ \nေကျာက်တံတားမိနယ်၊ အမှတ်(၅၂၀/၅၂၇)၊ မဟာဗ လပန်းǪခံလမ်း၊ လူမ \nဖူလုံေရးုံး၊ ေြမညီထပ်ှင့် ရန်ကုန်တိုင်းေဒသက"
-    },
-    {
       "source": "gnlm",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "page": 6,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "status": "needs_review",
@@ -117,7 +109,7 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "page": 7,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "status": "needs_review",
@@ -125,7 +117,7 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "page": 9,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "status": "needs_review",
@@ -133,7 +125,7 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-23",
+      "issue_date": "2026-11-24",
       "page": 10,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "status": "needs_review",
