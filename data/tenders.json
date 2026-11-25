@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-11-24T11:38:54.282879+00:00",
+  "updated_at": "2026-11-25T10:30:53.766685+00:00",
   "issues": [
     {
       "source": "mal",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5881",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "mal",
+      "issue_date": "2026-11-25",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5877",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "mal",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5874",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "mal",
-      "issue_date": "2026-11-24",
-      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5869",
+      "source": "km",
+      "issue_date": "2026-11-25",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5489",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5487",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5484",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-24",
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5482",
-      "pages": 32,
+      "source": "gnlm",
+      "issue_date": "2026-11-25",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5641",
+      "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5638",
       "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
-      "pages": 15,
-      "status": "date_unverified"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-24",
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5633",
       "pages": 15,
       "status": "date_unverified"
     }
@@ -69,7 +69,7 @@
   "candidates": [
     {
       "source": "km",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "page": 30,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5487",
       "status": "needs_review",
@@ -77,31 +77,23 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "page": 30,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5484",
       "status": "needs_review",
       "excerpt": "ိုဝင်ဘာ  ၂၃၊  ၂၀၂၆\nလုပ်ငန်းသုံးပစ ည်း (ကတ ရာ၊ ပရီမီယံဒီဇယ်ဆီ) \nလုပ်ငန်းသုံးပစ ည်း (ကတ ရာ၊ ပရီမီယံဒီဇယ်ဆီ) \nအိတ်ဖွင့်တင်ဒါ (Open Tender) ေခ ယူြခင်း\nအိတ်ဖွင့်တင်ဒါ (Open Tender) ေခ ယူြခင်း\n၁။ လမ်းဦးစီးဌာန၊ ရှမ်းြပည်နယ်(ေတာင်ပိုင်း)အတွင်းရှိ ခိုင်/လမ်း အထူး \nအဖွဲများမှ ၂၀၂၆- ၂၀၂၇ ဘ  ာေရးှစ်အတွင်း ြပည်ေထာင်စုေငွလုံးေငွရင်း \nြဖည့်စွက်ရန်ပုံေငွြဖင့်ေဆာင်ရɪက်မည့် လမ်း/တံတားလုပ်ငန်းများအတွက် \nလ"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-24",
-      "page": 27,
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5482",
+      "source": "gnlm",
+      "issue_date": "2026-11-25",
+      "page": 6,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5641",
       "status": "needs_review",
-      "excerpt": "ိုဝင်ဘာ  ၂၂၊  ၂၀၂၆\nအများသိေစရန်ေကညာြခင်း\nအများသိေစရန်ေကညာြခင်း\nက ်ုတို၏မိတ်ေဆွ ေဒ မျိးမျိးစိန် [၁၃/ကခန(ြပ)၀၀၀၁၆၄]၏ \nလ ဲအပ် န်ကားချက်အရ ေအာက်ပါအတိုင်း ေကညာအပ်ပါသည်-\nရန်ကုန်တိုင်းေဒသကီး၊ ေဒါပုံမိနယ်၊ ွယ်ေအးရပ်ကွက်၊ ယုဇနလမ်း၊ \nအမှတ်-၇၂ ဟုေခ တွင်ေသာ ေြမေပ တွင်ေဆာက်လုပ်ထားေသာ (၂)ခန်းတွဲ \n(၆)ထပ်တိုက်မှ အကျယ်အဝန်း (၁၂၁\n၂' x ၅၀')စီရှိကေသာ ၄-လ ာ (တိုက်ကို \nမျက်ှာမူလ င်ဘယ်) တိုက်ခန"
-    },
-    {
-      "source": "km",
-      "issue_date": "2026-11-24",
-      "page": 30,
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5482",
-      "status": "needs_review",
-      "excerpt": "ိုဝင်ဘာ  ၂၂၊  ၂၀၂၆\nလုပ်ငန်းသုံးပစ ည်း (ကတ ရာ၊ ပရီမီယံဒီဇယ်ဆီ) \nလုပ်ငန်းသုံးပစ ည်း (ကတ ရာ၊ ပရီမီယံဒီဇယ်ဆီ) \nအိတ်ဖွင့်တင်ဒါ (Open Tender) ေခ ယူြခင်း\nအိတ်ဖွင့်တင်ဒါ (Open Tender) ေခ ယူြခင်း\n၁။ လမ်းဦးစီးဌာန၊ ရှမ်းြပည်နယ်(ေတာင်ပိုင်း)အတွင်းရှိ ခိုင်/လမ်း အထူး \nအဖွဲများမှ ၂၀၂၆- ၂၀၂၇ ဘ  ာေရးှစ်အတွင်း ြပည်ေထာင်စုေငွလုံးေငွရင်း \nြဖည့်စွက်ရန်ပုံေငွြဖင့်ေဆာင်ရɪက်မည့် လမ်း/တံတားလုပ်ငန်းများအတွက် \nလ"
+      "excerpt": "6\n25  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nNATIONAL\nTHE Department of Rural \nDevelopment, under the \nMinistry of Cooperatives \nand Rural Development, \nMongyang Township, \nShan State (East), is im­\nplementing the construc­\ntion of a rural agricultural \nroad in Wangtaung Village \nto enable rural residents \nto transport agricultural \nproduce from their farm­\nlands to markets"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "page": 6,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "status": "needs_review",
@@ -109,7 +101,7 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "page": 7,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "status": "needs_review",
@@ -117,7 +109,7 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "page": 9,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "status": "needs_review",
@@ -125,7 +117,7 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-24",
+      "issue_date": "2026-11-25",
       "page": 10,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "status": "needs_review",
