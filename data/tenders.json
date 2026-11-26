@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-11-25T10:30:53.766685+00:00",
+  "updated_at": "2026-11-26T10:03:50.193582+00:00",
   "issues": [
     {
       "source": "mal",
-      "issue_date": "2026-11-25",
+      "issue_date": "2026-11-26",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5883",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "mal",
+      "issue_date": "2026-11-26",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5881",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "mal",
-      "issue_date": "2026-11-25",
+      "issue_date": "2026-11-26",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5877",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "mal",
-      "issue_date": "2026-11-25",
-      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5874",
+      "source": "km",
+      "issue_date": "2026-11-26",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-25",
+      "issue_date": "2026-11-26",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5489",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-25",
+      "issue_date": "2026-11-26",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5487",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-25",
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5484",
-      "pages": 32,
+      "source": "gnlm",
+      "issue_date": "2026-11-26",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5644",
+      "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-25",
+      "issue_date": "2026-11-26",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5641",
       "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-25",
+      "issue_date": "2026-11-26",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5638",
-      "pages": 15,
-      "status": "date_unverified"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-25",
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
       "pages": 15,
       "status": "date_unverified"
     }
@@ -69,59 +69,51 @@
   "candidates": [
     {
       "source": "km",
-      "issue_date": "2026-11-25",
+      "issue_date": "2026-11-26",
+      "page": 27,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၆၊  ၂၀၂၆\n  \n  \n  \n  \n  \n  \n  \nအများသိေစရန်ေကညာြခင်း\nအများသိေစရန်ေကညာြခင်း\nရန်ကုန်တိုင်းေဒသကီး၊  အင်းစိန်မိနယ်၊ ရɪာမ(အေရှ)ရပ်ကွက်၊ ဓမ ာုံလမ်း၊ အမှတ်(၅၈၉)ေန ေဒ လှလှြမင့် (ခ) \nLEE YEE HWA (ဘ) ဦးရှန် မှတ်ပုံတင်အမှတ် [၁၂/အစန(ြပ)၀၀၀၅၀၁]၏ ကိုယ်ပိုင်ေငွေကးဆိုင်ရာကိစ ရပ်များ၊ ေချးေငွ/\nေက းမီ ကိစ ရပ်များ အစရှိသည့် အြခားနည်းြဖင့်စပ်လျ်း၍ ြဖစ်ေပ လာသည့် ေငွေကးဆိုင်ရာကိစ ရပ်များှ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-26",
+      "page": 28,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၆၊  ၂၀၂၆\n“ကနǥ်ကွက်ိုင်ပါေကာင်း အများသိေစရန်ေကညာြခင်း”\n“ကနǥ်ကွက်ိုင်ပါေကာင်း အများသိေစရန်ေကညာြခင်း”\nရန်ကုန်မိ၊ ေတာင်ဥက လာပမိနယ်၊ (၁၃)ရပ်ကွက်၊ ယဿဝတီ(၁၃)လမ်း၊ တိုက်အမှတ် (၉၉၃-က/ခ)၊ (အလျား \n၄၃ ေပ x အနံ ၆၀ေပ)ရှိ ေြမေပ တွင်ေဆာက်လုပ်ထားေသာ (၃)ခန်းတွဲ (၃၁\n၂)ထပ်တိုက်၏ တတိယထပ်(အလယ်ခန်း)၊ \nအခန်းအမှတ်(၉၃၃-ကB) ဟုေခ တွင်သည့်တိုက်ခန်းှင့် ယင်းတိုက်ခန်း၏ အကျိးခံစားခွင့်အရပ်ရပ်အားလုံးကိ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-26",
+      "page": 29,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၂၆၊   ၂၀၂၆\nကနǥ်ကွက်ိုင်ေကာင်း \nကနǥ်ကွက်ိုင်ေကာင်း \nေကာ်ြငာ\nေကာ်ြငာ\nဒဂုံမိသစ်(ေြမာက်ပိုင်း)မိနယ်၊ \nေြမတိုင်းရပ်ကွက်အမှတ်-၅ဝ၊ ေြမကွက် \nအမှတ်-၅၇၂၊ ေြမကွက်တည်ေနရာ \nအမှတ်-အမှတ်(၅၇၂)၊ စိန်ပန်းနီလမ်း၊ \n(၅ဝ)ရပ်ကွက်၊ ဒဂုံမိသစ်(ေြမာက်ပိုင်း) \nဦးေအာင်သန်း (AD-ဝ၃၂၃၃၇)၊ အမည် \nေပါက် ှစ်(၆၀)ဂရန်ေြမအား အမည် \nေပါက် ဦးေအာင်သန်းအား တရားပိင် \nထားကာ ဦးေအာင်ဘုန်းမှ တရားလို \nြပလုပ်၍ ဒဂုံမိ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-26",
+      "page": 30,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ    ၂၆၊   ၂၀၂၆\nေပျာက်ဆုံးေကာင်း\nေပျာက်ဆုံးေကာင်း\nEMCA Express Movers Co., Ltd. \n၏   ဝန်ထမ်းြဖစ်သူ  က န်ေတာ် \nဦးဝင်းိုင်ဦး   [၁၂/အစန(ိုင်) \n၁၅၈၁၅၁]၊    (ပန်းေရာင်ကတ် \nအမှတ်-၅၂၅၈၅၄)သည် ေပျာက်ဆုံး \nသွားပါသြဖင့်    ေတွရှိပါက \nအေကာင်းကားေပးပါရန်။\nဖုန်း-09-450050545\nဖုန်း-09-450050545\nကနǥ်ကွက်ိုင်ပါေကာင်း အများသိေစရန်ေကညာြခင်း\nကနǥ်ကွက်ိုင်ပါေကာင်း အများသိေစရန်ေကညာြခင်း\nရန်ကုန်တိုင်"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-26",
       "page": 30,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5487",
       "status": "needs_review",
       "excerpt": "ိုဝင်ဘာ  ၂၄၊  ၂၀၂၆\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nဒဂုံမိသစ်(ေြမာက်ပိုင်း)၊ ေြမတိုင်းရပ်ကွက်အမှတ်(၃၉/ဘီ)၊ ေြမကွက် \nအမှတ်- ၂၂၄၊ ေြမကွက်တည်ေနရာအမှတ်(၂၂၄)၊ ဗ လလမ်း၊ ၃၉/ဘီရပ်ကွက်၊ \nဒဂုံမိသစ်(ေြမာက်ပိုင်း)မိနယ်၊  ေဒ တင်ေမ (BF.၀၆၃၁၇၂) အမည်ေပါက် \nှစ်(၆၀) ေြမငှား(ဂရန်)ေြမအား အမည်ေပါက် ေဒ တင်ေမ (BF.၀၆၃၁၇၂) (မိခင်)ှင့် \nဦးတင်ေအး (ဖခင်)  ကွယ်လွန်တိုတွင်  သား၊ သမီးမ"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-25",
-      "page": 30,
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5484",
-      "status": "needs_review",
-      "excerpt": "ိုဝင်ဘာ  ၂၃၊  ၂၀၂၆\nလုပ်ငန်းသုံးပစ ည်း (ကတ ရာ၊ ပရီမီယံဒီဇယ်ဆီ) \nလုပ်ငန်းသုံးပစ ည်း (ကတ ရာ၊ ပရီမီယံဒီဇယ်ဆီ) \nအိတ်ဖွင့်တင်ဒါ (Open Tender) ေခ ယူြခင်း\nအိတ်ဖွင့်တင်ဒါ (Open Tender) ေခ ယူြခင်း\n၁။ လမ်းဦးစီးဌာန၊ ရှမ်းြပည်နယ်(ေတာင်ပိုင်း)အတွင်းရှိ ခိုင်/လမ်း အထူး \nအဖွဲများမှ ၂၀၂၆- ၂၀၂၇ ဘ  ာေရးှစ်အတွင်း ြပည်ေထာင်စုေငွလုံးေငွရင်း \nြဖည့်စွက်ရန်ပုံေငွြဖင့်ေဆာင်ရɪက်မည့် လမ်း/တံတားလုပ်ငန်းများအတွက် \nလ"
-    },
-    {
       "source": "gnlm",
-      "issue_date": "2026-11-25",
+      "issue_date": "2026-11-26",
       "page": 6,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5641",
       "status": "needs_review",
       "excerpt": "6\n25  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nNATIONAL\nTHE Department of Rural \nDevelopment, under the \nMinistry of Cooperatives \nand Rural Development, \nMongyang Township, \nShan State (East), is im­\nplementing the construc­\ntion of a rural agricultural \nroad in Wangtaung Village \nto enable rural residents \nto transport agricultural \nproduce from their farm­\nlands to markets"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-25",
-      "page": 6,
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
-      "status": "needs_review",
-      "excerpt": "6\n23  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nNATIONAL\nTHE Ministry of Social \nWelfare, Relief and Reset­\ntlement provided financial \nsupport to a mother who \ngave birth to quadruplets \nat Nay Pyi Taw Obstetrics \nand Gynaecology Specialty \nHospital.\nUnion Minister for So­\ncial Welfare, Relief and Re­\nsettlement Dr Ko Ko Lwin \nvisited the hospital, accom­\npanied by Deputy Min"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-25",
-      "page": 7,
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
-      "status": "needs_review",
-      "excerpt": "7\nwww.gnlm.com.mm\n23  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nNATIONAL\nWOMEN in Logistics \nand Transport, Navigat­\ning Asia, and Aim For­\nward Institute are jointly \norganizing an awareness \ntraining on Freight For­\nwarder’s Liabilities and \nCargo Insurance in Yan­\ngon on 27 November.\nParticipants will be \nable to learn about the \nduties and accountabil­\nities of freight forward­\ners, trans"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-25",
-      "page": 9,
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
-      "status": "needs_review",
-      "excerpt": "10\n23  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nDELICACY/NEWS QUIZ \nWRAPPED neatly in green bamboo \nleaves or banana leaves in a distinc­\ntive triangular, cone-like shape, Pyayay \nHtoke is a traditional Myanmar delicacy. \nOnce the leaves are unfolded, the glossy, \ntranslucent amber-coloured treat inside \nimmediately catches the eye.\nMade by cooking glutinous rice with \nclear"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-25",
-      "page": 10,
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5636",
-      "status": "needs_review",
-      "excerpt": "11\nwww.gnlm.com.mm\n23  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nDELICACY/ARTICLE\nPyayay Htoke: A Traditional Myanmar Glutinous Rice Delicacy\nFROM PAGE 10\nContinue cooking until the glutinous \nrice is completely tender and the parcels \nhave developed a glossy, translucent \namber colour and a firm, jelly-like con­\nsistency.\n5.\t Cool and serve\nOnce cooked, remove the parcels \nfrom the pot and b"
     }
   ],
   "errors": []
