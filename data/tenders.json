@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-11-26T10:03:50.193582+00:00",
+  "updated_at": "2026-11-27T10:09:27.176974+00:00",
   "issues": [
     {
       "source": "mal",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5885",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "mal",
+      "issue_date": "2026-11-27",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5883",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "mal",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5881",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "mal",
-      "issue_date": "2026-11-26",
-      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5877",
+      "source": "km",
+      "issue_date": "2026-11-27",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5489",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-26",
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5487",
-      "pages": 32,
+      "source": "gnlm",
+      "issue_date": "2026-11-27",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5647",
+      "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5644",
       "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5641",
-      "pages": 15,
-      "status": "date_unverified"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-26",
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5638",
       "pages": 15,
       "status": "date_unverified"
     }
@@ -69,7 +69,71 @@
   "candidates": [
     {
       "source": "km",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
+      "page": 19,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၂၇၊  ၂၀၂၆\n“အကင်လင်မယားအြဖစ်မှ ကွာရှင်းြပတ်စဲပီးြဖစ်ေကာင်း\n“အကင်လင်မယားအြဖစ်မှ ကွာရှင်းြပတ်စဲပီးြဖစ်ေကာင်း\n အများသိေစရန် အသိေပးေကညာြခင်း’’\n အများသိေစရန် အသိေပးေကညာြခင်း’’\nဦးေကျာ်လင်းေအာင် [၁၂/ထတပ(ိုင်)၁၀၀၇၁၉] ှင့် က ်ုပ်၏မိတ်ေဆွ \nေဒ ေရɫ ရည်ဝင်း [၁၂/လသယ(ိုင်)၀၈၆၆၉၇] တိုသည်  (၂၀၁၇)ခုှစ်တွင် \nအကင်လင်မယားအြဖစ် ေပါင်းသင်းေနထိုင်ခဲ့ကပီး  သား/သမီးတစ်ဦးမ \nထွန်းကားခဲ့ြခင်းမရှိ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-27",
+      "page": 21,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၂၇၊  ၂၀၂၆\nကနǥ်သတ်မ မရှိေသာတင်ဒါ\nကနǥ်သတ်မ မရှိေသာတင်ဒါ\n(အိတ်ဖွင့်တင်ဒါ)ဖိတ်ေခ ြခင်း\n(အိတ်ဖွင့်တင်ဒါ)ဖိတ်ေခ ြခင်း\n၁။  \nေဆာက်လုပ်ေရးဝန်ကီးဌာန၊ လမ်းဦးစီးဌာန၊ အြမန်လမ်းမကီး \nထိန်းသိမ်းြပြပင်ေရးှင့် ကီးကပ်ေရးအဖွဲမှ  ရန်ကုန်-မ ေလး အြမန် \nလမ်းမကီးတွင် ၂၀၂၆-၂၀၂၇ ဘ  ာေရးှစ်၊ ြပည်ေထာင်စုေငွလုံးေငွရင်း \n(ြဖည့်စွက်) ရန်ပုံေငွြဖင့် ေဆာင်ရɪက်မည့် လုပ်ငန်းများအတွက် လိုအပ် \nေသာလမ်းလုပ်ငန"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-27",
+      "page": 23,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၇၊  ၂၀၂၆\nေကာ်ြငာစာ\nေကာ်ြငာစာ\nမ ေလးမိ၊ ြပည်ကီးတံခွန်မိနယ်၊ (ည)ရပ်ကွက်၊ အကွက် \nအမှတ်(လလ-၁၄)၊ ဦးပိုင်အမှတ်(၃၁)၊ ၆၇x၆၈ ကား၊ ၁၄၀x၁၄၁ လမ်း \nကားရှိ ဂရန်ေြမကွက်အမည်ေပါက်သူ ေဒ ခင်လှလှ ထံမှ မှတ်ပုံတင်\nအေရာင်းအဝယ်စာချပ်အမှတ် (၇၉၆/၂၀၂၆) ြဖင့် ဝယ်ယူခဲ့ေသာ \nေဒ သန်းသန်းေဆွ [၉/မရမ(ိုင်)၀၂၉၄၄၄]၊ ဦးေကျာ်ခိုင်[၉/ခအဇ \n(ိုင်)၀၁၃၄၉၈]၊ ဦးြပည့်စုံခိုင် [၉/ခအဇ(ိုင်)၀၁၄၄၃၂]တိုက \nအမ တွဲအမှတ်"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-27",
+      "page": 24,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၂၇၊  ၂၀၂၆\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nကျန်းမာေရးဝန်ကီးဌာန\nကျန်းမာေရးဝန်ကီးဌာန\nကျန်းမာေရးလူǥစွမ်းအားအရင်းအြမစ်ဦးစီးဌာန \nကျန်းမာေရးလူǥစွမ်းအားအရင်းအြမစ်ဦးစီးဌာန \nေဆးတက သိုလ်(၁)၊ ရန်ကုန်\nေဆးတက သိုလ်(၁)၊ ရန်ကုန်\n၂၀၂၇ ပညာသင်ှစ်\n၂၀၂၇ ပညာသင်ှစ်\nေဆးပညာမဟာသိပ ံဘွဲလွန်သင်တန်းများအတွက် \nေဆးပညာမဟာသိပ ံဘွဲလွန်သင်တန်းများအတွက် \nဝင်ခွင့်ထပ်"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-27",
+      "page": 25,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၇၊  ၂၀၂၆\nအမည်ေြပာင်း\nအမည်ေြပာင်း\nမွန်ြပည်နယ်၊ ေရးမိနယ်၊ \nအ.ထ.က(၃)ေရး၊ Grade-8 \nတွင် ပညာသင်ကားေနေသာ \nဦးeာဏ်သိန်း၏သမီး မိှင်းယု \nနဒီအား   မှင်းယုနဒီဟု \nေြပာင်းလဲေခ ဆိုပါရန်။\nမှင်းယုနဒီ\nမှင်းယုနဒီ\nယာ်မှတ်ပုံတင်စာအုပ် \nယာ်မှတ်ပုံတင်စာအုပ် \nမိတ ေလ ာက်ထားြခင်း\nမိတ ေလ ာက်ထားြခင်း\nယာ်အမှတ် 8K/3979၊ အမျိး \nအမည် UDLight TRUCK(UDLT-02)၊  \nအမျိးအစား Pickup၊ ယာ်လက်ဝယ် \nရှိသူအမည်"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-27",
+      "page": 26,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၂၇၊  ၂၀၂၆\nအများသိေစရန်ေကညာချက်\nအများသိေစရန်ေကညာချက်\nရန်ကုန်တိုင်းေဒသကီး၊ လ င်သာယာ(အေနာက်ပိုင်း)မိနယ်၊  (၁၃)\nရပ်ကွက်၊ ေြမတိုင်းရပ်ကွက်အမှတ်(သကမ-၆)၊ လူေနရပ်ကွက်အမှတ်(၂ဝ/၁၃)၊ \nေြမကွက်အမှတ်(၂၄၅/ခ)၊ လ င်ရတနာလမ်း၊ဧရိယာ (အလျား၂၀.၆ေပx အနံ၆ဝေပ)\nဟုေခ တွင်ေသာ ဦးေအးြမင့် အမည်ေပါက် ှစ်(၆ဝ)ေြမငှားဂရန်ေြမကွက်ှင့် \nယင်းေြမကွက်အပါအဝင် အကျိးခံစားခွင့်အရပ်ရပ်အားလုံးကို ပိုင်ဆိုင်အကျိး \nခံစားခ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-27",
+      "page": 28,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၇၊  ၂၀၂၆\nကနǥ်ကွက်ိုင်ေကာင်းအများသိေစရန်ေကညာြခင်း\nကနǥ်ကွက်ိုင်ေကာင်းအများသိေစရန်ေကညာြခင်း\nက ်ုပ်တို၏မိတ်ေဆွများက မေအးမာလာ [၁၂/ပဘတ(ိုင်)၀၀၁၂၃၂] \nအမည်ေပါက်ေနသည့် ပန်းဘဲတန်းမိနယ်၊ (၈)ရပ်ကွက်၊ ဗိုလ်ဆွန်ပက်လမ်း၊ \nအမှတ်(၃၃၃)၊ (၃)လ ာ(ဒုတိယထပ်) တိုက်ခန်းှင့် မျက်ှာချင်းဆိုင်အေနအထားမှ \nကည့်လ င်  လက်ယာဘက် (ေြမာက်ဘက်ြခမ်းေထာင့်) (၁၂၁၂ေပx၆၀ေပ)အကျယ် \nတိုက်ခန်းှင့် အကျိးခံစားခွင့်အ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-27",
+      "page": 29,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၇၊  ၂၀၂၆\nကနǥ်ကွက်ိုင်ပါေကာင်းှင့် အများသိေစရန်ေကာ်ြငာြခင်း\nကနǥ်ကွက်ိုင်ပါေကာင်းှင့် အများသိေစရန်ေကာ်ြငာြခင်း\nရန်ကုန်တိုင်းေဒသကီး၊ ဒဂုံမိသစ်(ေတာင်ပိုင်း)မိနယ်၊ ေြမတိုင်းရပ်ကွက်အမှတ် \n(၁၅၄)၊ ေြမကွက်အမှတ်(၃၅၃)ဟုေခ တွင်ေသာ ဦးေသာင်းွနǥ်(GBK-၀၇၃၁၇၉) အမည် \nေပါက် ပါမစ်ေြမအမျိးအစား၊ အကျယ်အဝန်း(၄ဝx၆ဝ)ေပရှိ ေြမကွက်ှင့် ယင်းေြမကွက် \nေပ ရှိ အကျိးခံစားခွင့်အရပ်ရပ်အားလုံးတိုကို ယ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-27",
       "page": 27,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "status": "needs_review",
@@ -77,7 +141,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
       "page": 28,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "status": "needs_review",
@@ -85,7 +149,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
       "page": 29,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "status": "needs_review",
@@ -93,23 +157,31 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
       "page": 30,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "status": "needs_review",
       "excerpt": "ိုဝင်ဘာ    ၂၆၊   ၂၀၂၆\nေပျာက်ဆုံးေကာင်း\nေပျာက်ဆုံးေကာင်း\nEMCA Express Movers Co., Ltd. \n၏   ဝန်ထမ်းြဖစ်သူ  က န်ေတာ် \nဦးဝင်းိုင်ဦး   [၁၂/အစန(ိုင်) \n၁၅၈၁၅၁]၊    (ပန်းေရာင်ကတ် \nအမှတ်-၅၂၅၈၅၄)သည် ေပျာက်ဆုံး \nသွားပါသြဖင့်    ေတွရှိပါက \nအေကာင်းကားေပးပါရန်။\nဖုန်း-09-450050545\nဖုန်း-09-450050545\nကနǥ်ကွက်ိုင်ပါေကာင်း အများသိေစရန်ေကညာြခင်း\nကနǥ်ကွက်ိုင်ပါေကာင်း အများသိေစရန်ေကညာြခင်း\nရန်ကုန်တိုင်"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-26",
-      "page": 30,
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5487",
+      "source": "gnlm",
+      "issue_date": "2026-11-27",
+      "page": 6,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5647",
       "status": "needs_review",
-      "excerpt": "ိုဝင်ဘာ  ၂၄၊  ၂၀၂၆\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nကနǥ်ကွက်ိုင်ေကာင်းေကာ်ြငာ\nဒဂုံမိသစ်(ေြမာက်ပိုင်း)၊ ေြမတိုင်းရပ်ကွက်အမှတ်(၃၉/ဘီ)၊ ေြမကွက် \nအမှတ်- ၂၂၄၊ ေြမကွက်တည်ေနရာအမှတ်(၂၂၄)၊ ဗ လလမ်း၊ ၃၉/ဘီရပ်ကွက်၊ \nဒဂုံမိသစ်(ေြမာက်ပိုင်း)မိနယ်၊  ေဒ တင်ေမ (BF.၀၆၃၁၇၂) အမည်ေပါက် \nှစ်(၆၀) ေြမငှား(ဂရန်)ေြမအား အမည်ေပါက် ေဒ တင်ေမ (BF.၀၆၃၁၇၂) (မိခင်)ှင့် \nဦးတင်ေအး (ဖခင်)  ကွယ်လွန်တိုတွင်  သား၊ သမီးမ"
+      "excerpt": "6\n27  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nNATIONAL\nTHE systematic demo­\nlition of illegal buildings \nused for online scams \nand gambling in Phase II \nof the Shwe Kokko area \nis continuing to prevent \nsuch activities from re­\nsuming at the sites where \nonline fraud and gambling \nwere previously carried \nout extensively.\nOf the remaining ille­\ngal buildings in Phase II of"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-26",
+      "issue_date": "2026-11-27",
+      "page": 7,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5647",
+      "status": "needs_review",
+      "excerpt": "7\nwww.gnlm.com.mm\n27  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nNATIONAL\nTHE No 1 Mining Enter­\nprise, under the Minis­\ntry of Natural Resourc­\nes and Environmental \nConservation, has invit­\ned open tenders under \nTender 1/2026-2027 for \nthe sale of various min­\nerals.\nThe minerals of­\nfered for sale comprise \n21,350 metric tonnes \nof lead ore from Baw \nHseng Township; 1.00 \nmetric tonne of l"
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-27",
       "page": 6,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5641",
       "status": "needs_review",
