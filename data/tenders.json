@@ -1,66 +1,66 @@
 {
-  "updated_at": "2026-11-27T10:09:27.176974+00:00",
+  "updated_at": "2026-11-28T09:28:06.444186+00:00",
   "issues": [
     {
       "source": "mal",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
+      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5887",
+      "pages": 32,
+      "status": "date_unverified"
+    },
+    {
+      "source": "mal",
+      "issue_date": "2026-11-28",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5885",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "mal",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5883",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "mal",
-      "issue_date": "2026-11-27",
-      "pdf_url": "https://www.moi.gov.mm/mal/file-download/download/public/5881",
+      "source": "km",
+      "issue_date": "2026-11-28",
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5497",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "pages": 32,
       "status": "date_unverified"
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "pages": 32,
       "status": "date_unverified"
     },
     {
-      "source": "km",
-      "issue_date": "2026-11-27",
-      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5489",
-      "pages": 32,
+      "source": "gnlm",
+      "issue_date": "2026-11-28",
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5650",
+      "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5647",
       "pages": 15,
       "status": "date_unverified"
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5644",
-      "pages": 15,
-      "status": "date_unverified"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-27",
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5641",
       "pages": 15,
       "status": "date_unverified"
     }
@@ -69,7 +69,47 @@
   "candidates": [
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
+      "page": 21,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5497",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ    ၂၈၊   ၂၀၂၆\nေကာ်ြငာစာ\nေကာ်ြငာစာ\nမ ေလးမိ၊ ချမ်းြမသာစည်မိ \nနယ်၊ ြမရည်န ာရပ်ကွက်၊  အကွက် \nအမှတ် (မမ-၆)၊ ဦးပိုင်အမှတ် (၅၉)\nခဲစင်း၊ ၄၈x၄၉ ကား၊ ၁၁၅x၁၁၆ \nလမ်းကားရှိ ဦးသန်းထွန်း အမည် \nေပါက်  ေတာဂရန်  ေြမကွက်အား \nအေမွဆက်ခံစာချပ်အမှတ် (၄၅၇/ \n၂၀၂၆)ြဖင့် အေမွဆက်ခံခဲ့ေသာ \nေဒ ဝင်းဝင်းမာ [၉/မရတ (ိုင်) \n၀၀၁၅၀၇]၊ ဦးြမင့်ဦး [၉/မရတ(ိုင်) \n၁၂၇၈၁၁]တိုက ေတာဂရန်စာချပ်ှင့် \nအတူ အမ တွဲအမှတ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-28",
+      "page": 22,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5497",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၈၊  ၂၀၂၆\nသမဝါယမှင့်ေကျးလက်ဖွံဖိးေရးဝန်ကီးဌာန\nသမဝါယမှင့်ေကျးလက်ဖွံဖိးေရးဝန်ကီးဌာန\nေကျးလက်လမ်းဖွံဖိးေရးဦးစီးဌာန \nေကျးလက်လမ်းဖွံဖိးေရးဦးစီးဌာန \nကရင်ြပည်နယ် \nကရင်ြပည်နယ် \n(အိတ်ဖွင့်တင်ဒါေခ ယူြခင်း)\n(အိတ်ဖွင့်တင်ဒါေခ ယူြခင်း)\n၁။  သမဝါယမှင့်ေကျးလက်ဖွံဖိးေရးဝန်ကီးဌာန၊ ကရင်ြပည်နယ်\nေကျးလက်လမ်းဖွံဖိးေရးဦးစီးဌာနမှ ၂၀၂၆-၂၀၂၇ ခု ဘ  ာေရးှစ် \nြပည်နယ်ေငွလုံးေငွရင်း (ြဖည့်စွက"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-28",
+      "page": 25,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5497",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ  ၂၈၊  ၂၀၂၆\nေဒ ခင်ေထွးေထွးဝင်း [၁၂/တမန(ိုင်)၀၀၀၄၀၂]၏ \nေဒ ခင်ေထွးေထွးဝင်း [၁၂/တမန(ိုင်)၀၀၀၄၀၂]၏ \n(၁၆-၁၁-၂၀၂၆)ေနǥ ေကးမုံသတင်းစာ၊ စာမျက်ှာ-၂၉ ပါ \n(၁၆-၁၁-၂၀၂၆)ေနǥ ေကးမုံသတင်းစာ၊ စာမျက်ှာ-၂၉ ပါ \nအိမ်ှင့် ေြမအေရာင်းအဝယ်အတွက် “ကနǥ်ကွက်ိုင်ေကာင်း \nအိမ်ှင့် ေြမအေရာင်းအဝယ်အတွက် “ကနǥ်ကွက်ိုင်ေကာင်း \nအများသိေစရန် ေကညာြခင်း”အေပ \nအများသိေစရန် ေကညာြခင်း”အေပ \nြပန်လည်ကနǥ်ကွက်ေကညာြခင်း\nြပ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-28",
+      "page": 26,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5497",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ    ၂၈၊   ၂၀၂၆\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nြပည်ေထာင်စုသမ တြမန်မာိုင်ငံေတာ်အစိုးရ\nကျန်းမာေရးဝန်ကီးဌာန \nကျန်းမာေရးဝန်ကီးဌာန \nကျန်းမာေရးလူǥစွမ်းအားအရင်းအြမစ်ဦးစီးဌာန \nကျန်းမာေရးလူǥစွမ်းအားအရင်းအြမစ်ဦးစီးဌာန \nေဆးတက သိုလ်(၁)၊ ရန်ကုန်\nေဆးတက သိုလ်(၁)၊ ရန်ကုန်\n၂ဝ၂၇ ပညာသင်ှစ်\n၂ဝ၂၇ ပညာသင်ှစ်\nCertificate Training Programme \nCertificate Training Programme \nfor Cardiovascular Perfus"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-28",
+      "page": 28,
+      "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5497",
+      "status": "needs_review",
+      "excerpt": "ိုဝင်ဘာ   ၂၈၊  ၂၀၂၆\nဖခင်အမည်မှန်\nဖခင်အမည်မှန်\nရန်ကုန်တိုင်း  ေဒသကီး၊ \nမဂ  လာဒုံမိနယ်၊ အ.ထ.က(ခွဲ)\nလ(၁၂)၊ Grade-7 တွင် ပညာသင် \nကားေနသည့် မေမသဇင်သင်းသနǥ် \n၏ ဖခင်အမည်မှန်မှာ  ဦးေအာင်မျိး \nဝင်း [၁၂/မဂဒ(ိုင်)၁၇၂၁၁၅]ြဖစ်ပါ \nေကာင်း။\nဦးေအာင်မျိးဝင်း\nဦးေအာင်မျိးဝင်း\nကနǥ်ကွက်ိုင်ပါေကာင်း\nကနǥ်ကွက်ိုင်ပါေကာင်း\n ေကာ်ြငာြခင်း\n ေကာ်ြငာြခင်း\nေြမာက်ဥက လာပမိနယ်၊ ေြမတိုင်း \nရပ်ကွက်အမှတ် (က)၊ ေြမ"
+    },
+    {
+      "source": "km",
+      "issue_date": "2026-11-28",
       "page": 19,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "status": "needs_review",
@@ -77,7 +117,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 21,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "status": "needs_review",
@@ -85,7 +125,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 23,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "status": "needs_review",
@@ -93,7 +133,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 24,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "status": "needs_review",
@@ -101,7 +141,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 25,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "status": "needs_review",
@@ -109,7 +149,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 26,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "status": "needs_review",
@@ -117,7 +157,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 28,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "status": "needs_review",
@@ -125,7 +165,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 29,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5495",
       "status": "needs_review",
@@ -133,7 +173,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 27,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "status": "needs_review",
@@ -141,7 +181,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 28,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "status": "needs_review",
@@ -149,7 +189,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 29,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "status": "needs_review",
@@ -157,7 +197,7 @@
     },
     {
       "source": "km",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 30,
       "pdf_url": "https://www.moi.gov.mm/km/file-download/download/public/5491",
       "status": "needs_review",
@@ -165,7 +205,15 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
+      "page": 7,
+      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5650",
+      "status": "needs_review",
+      "excerpt": "7\nwww.gnlm.com.mm\n28  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nNATIONAL\nWATER quality in rivers \nand streams along the \nMyanmar-Thailand bor­\nder and those shared by \nthe two countries is being \nregularly monitored and \nanalyzed on a monthly \nbasis, according to the \nMinistry of Natural Re­\nsources and Environ­\nmental Conservation.\nMonthly water quali­\nty monitoring and analy­\nsis have been"
+    },
+    {
+      "source": "gnlm",
+      "issue_date": "2026-11-28",
       "page": 6,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5647",
       "status": "needs_review",
@@ -173,19 +221,11 @@
     },
     {
       "source": "gnlm",
-      "issue_date": "2026-11-27",
+      "issue_date": "2026-11-28",
       "page": 7,
       "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5647",
       "status": "needs_review",
       "excerpt": "7\nwww.gnlm.com.mm\n27  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nNATIONAL\nTHE No 1 Mining Enter­\nprise, under the Minis­\ntry of Natural Resourc­\nes and Environmental \nConservation, has invit­\ned open tenders under \nTender 1/2026-2027 for \nthe sale of various min­\nerals.\nThe minerals of­\nfered for sale comprise \n21,350 metric tonnes \nof lead ore from Baw \nHseng Township; 1.00 \nmetric tonne of l"
-    },
-    {
-      "source": "gnlm",
-      "issue_date": "2026-11-27",
-      "page": 6,
-      "pdf_url": "https://www.moi.gov.mm/nlm/file-download/download/public/5641",
-      "status": "needs_review",
-      "excerpt": "6\n25  NOVEMBER  2026\nTHE GLOBAL NEW LIGHT OF MYANMAR\nwww.gnlm.com.mm\nNATIONAL\nTHE Department of Rural \nDevelopment, under the \nMinistry of Cooperatives \nand Rural Development, \nMongyang Township, \nShan State (East), is im­\nplementing the construc­\ntion of a rural agricultural \nroad in Wangtaung Village \nto enable rural residents \nto transport agricultural \nproduce from their farm­\nlands to markets"
     }
   ],
   "errors": []
